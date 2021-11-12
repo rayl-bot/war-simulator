@@ -1,0 +1,19 @@
+What is the purpose of the website?
+-Entertainment
+
+Who is the site targeting?
+-Basically digital natives.
+
+What is the expected age range?
+-Kids
+-Teens
+
+Business requirements for the website?
+---Back---
+-SpringBoot
+
+---Front---
+-AngularJs
+
+---Type---
+-Web Game

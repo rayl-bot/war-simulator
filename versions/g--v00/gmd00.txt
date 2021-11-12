@@ -1,0 +1,7 @@
+---Autentidicación de usuario, registro y inicio de sesión.
+
+---Creación de personaje.
+
+---Guía de juego
+
+---Combate
